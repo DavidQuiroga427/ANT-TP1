@@ -1,0 +1,10 @@
+Cuando se quiere hacer git merge y hay conflictos, hay 3 archivos. LOCAL, BASE Y REMOTE.
+
+La versión LOCAL es donde estoy parado en ese momento actual.
+
+La versión REMOTE es la ramaa ser combinada. 
+
+El BASE es donde estan los cambios finales, que es donde se soluciona el conflicto entre LOCAL y REMOTE.
+Entonces el BASE te escribe código y:
+    lo que está entre <<<< HEAD y ====, es un conflicto de tu LOCAL antes del merge.
+    lo que está entre ==== y >>>> <nombre_de_la_rama> es un conflicto de REMOTE.
