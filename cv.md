@@ -1,4 +1,4 @@
-Gabriel Jorge Alonso
-34338226
-gabrieljorgeal@gmail.com
-351 2574751
+Julio estaban machado
+57942302
+julmachado@gmail.com
+351 2724661
